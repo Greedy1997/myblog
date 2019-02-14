@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'lato-bold';
+  src: url('./fonts/lato-bold.ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'lato-regular';
+  src: url('./fonts/lato-regular.ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'p22_corinthia';
+  src: url('./fonts/p22_corinthia.ttf');
+  font-weight: normal;
+  font-style: normal;
+}
